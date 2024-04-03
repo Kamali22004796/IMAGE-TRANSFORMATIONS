@@ -1,6 +1,3 @@
-![318646615-3a3508f7-1f2e-4fcd-b98e-2b67c63eaa23](https://github.com/Kamali22004796/IMAGE-TRANSFORMATIONS/assets/120567837/2db7272f-88f6-46da-821f-baa104239f39)# IMAGE-TRANSFORMATIONS
-
-
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 

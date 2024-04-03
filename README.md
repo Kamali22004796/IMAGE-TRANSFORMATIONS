@@ -28,6 +28,7 @@ Thus the program is executed in google colab.
 ```python
 Developed By:kamali E
 Register Number:212222110015
+```
 i)Image Translation
 ```
 import numpy as np
